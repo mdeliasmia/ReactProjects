@@ -1,62 +1,25 @@
+https://www.youtube.com/watch?v=DOC3MyuuWhM&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr&index=4
+//Create Project
+yarn create react-app my-app
 
-/**============== Start Client =============*/
-
-// Install Client packages
-PS E:\2025\Tutorials\REACT\freeCodeCamp\mern-stack-blog-app-2025\client> 
-
-//Install React Router Dom 
-npm i react-router-dom  ✓
-https://www.npmjs.com/package/react-router-dom
+//Start
+yarn start
 
 
-//Install Axios
-npm install axios
-yarn add axios      ✓
-https://axios-http.com/docs/intro
+//Tutorial Series
+⌨️ (5:19:12) Weather app
 
-//Install
+https://openweathermap.org
+UserName: MdEliasMia
+password: MdEliasMia@123
+Email: mdeliasmia.aiub@gmail.com
+API Keys: a02b8b0445e1abdfa73d601bda34652c
+API Keys: 03f19427d67780fbc9d7927158652b67
+freeCodeCamp:
+API Keys: e34b4c51d8c2b7bf48d5217fe52ff79e
 
+https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}
+https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+https://api.openweathermap.org/data/2.5/weather?q={city name},{country code}&appid={API key}
+https://api.openweathermap.org/data/2.5/weather?q={city name},{state code},{country code}&appid={API key}
 
-
-/**============== Client END =============*/
-
-
-
-
-
-/**============== Start Server =============*/
-
-// Install Server packages
-PS E:\2025\Tutorials\REACT\freeCodeCamp\mern-stack-blog-app-2025\server> 
-
-//Install cord/Express/Mongoose/Nodemon
-npm i cord express mongoose nodemon 
-npm i cors express mongoose nodemon ✓
-
-//Install cord
-npm i cord
-//Install cors  ✓
-npm i cors      ✓
-
-//Install Express
-npm i express   ✓
-
-//Install Mongoose
-npm i mongoose  ✓
-
-//Install Nodemon
-npm i nodemon   ✓
-
-// Start Server(package.json)
-npm start   ✓
-
-// index.js
-http://localhost:5000/api
-
-//Connect Mongo DB(db->index.js)
-Cluster0
-Username : mdeliasmiaaiub_db_user
-Password : MLCmVr23CKztZVLQ
-
-
-/**============== Server END =============*/
