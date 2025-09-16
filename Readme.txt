@@ -5,21 +5,35 @@ yarn create react-app my-app
 //Start
 yarn start
 
+// Install React Router Dom 
+npm install react-router-dom
+
+// Install Redux
+npm install @reduxjs/toolkit
+npm install react-redux
+
+//Install React Icons
+yarn add react-icons
+# or
+npm install react-icons --save
+
+// Install CHAKRA-UI 
+   
+yarn add @chakra-ui/react@latest @emotion/react @emotion/styled framer-motion
+
+// Check Chakra UI Version
+npm list @chakra-ui/react
+https://chakra-ui.com/docs/get-started/frameworks/next-app
+
+// Install React Apexcharts
+npm i react-apexcharts 
+
+// Install Tailwind CSS
+npm install -D tailwindcss@3
+npx tailwindcss init
+https://v3.tailwindcss.com/docs/guides/create-react-app
+
+
 
 //Tutorial Series
-⌨️ (5:19:12) Weather app
-
-https://openweathermap.org
-UserName: MdEliasMia
-password: MdEliasMia@123
-Email: mdeliasmia.aiub@gmail.com
-API Keys: a02b8b0445e1abdfa73d601bda34652c
-API Keys: 03f19427d67780fbc9d7927158652b67
-freeCodeCamp:
-API Keys: e34b4c51d8c2b7bf48d5217fe52ff79e
-
-https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}
-https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
-https://api.openweathermap.org/data/2.5/weather?q={city name},{country code}&appid={API key}
-https://api.openweathermap.org/data/2.5/weather?q={city name},{state code},{country code}&appid={API key}
-
+⌨️ (7:37:25) Expense Tracker App
